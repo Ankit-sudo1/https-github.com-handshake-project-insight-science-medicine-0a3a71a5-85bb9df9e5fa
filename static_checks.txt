@@ -1,0 +1,75 @@
+Static checks for warfarin-dose-plan
+
+PASS  required file task.toml exists
+PASS  required file instruction.md exists
+PASS  required file README.md exists
+PASS  required file solution/solve.sh exists
+PASS  required file environment/Dockerfile exists
+PASS  required file tests/Dockerfile exists
+PASS  required file tests/test.sh exists
+PASS  required file tests/test_outputs.py exists
+PASS  environment/data/ exists
+PASS  no __pycache__, .pyc or editor metadata anywhere in the task
+PASS  no trajectories, pass2 output, screenshots or blind-trial output files (the blind-trial summary in evidence/ is intended)
+PASS  slug 'warfarin-dose-plan' is at most three hyphen-separated tokens
+PASS  artifacts is the first line, above any [section]
+PASS  artifacts appears above the first TOML section header
+PASS  schema_version is 2.0
+PASS  task name is insight/warfarin-dose-plan
+PASS  verifier environment_mode is separate
+PASS  allow_internet is absent
+PASS  instruction timeout matches [agent] timeout_sec (28800.0)
+PASS  verifier timeout 600.0 is within the 18000 s cap
+PASS  agent timeout 28800.0 is a stated 8 h budget
+PASS  task.toml parses as TOML
+PASS  [metadata] uses exactly one layout (domain/field/subfield, explanations in README.md)
+PASS  no pass rates, model names or trial talk in task.toml
+PASS  instruction is 536 words, within the 1500-token limit (about 1.6 Qwen3 tokens per word here)
+PASS  instruction ends with the exact timeout sentence
+PASS  every input path in the instruction is absolute (/app/data/...)
+PASS  the artifact path is named in the instruction
+PASS  every file in environment/data is named in the instruction
+PASS  no pass rates, model names or best-effort language in the instruction
+PASS  the referenced document (430 words) is shorter than the instruction (536 words)
+PASS  neither Dockerfile pins --platform
+PASS  both images are pinned by digest
+PASS  both Dockerfiles use the same base image
+PASS  verifier image pins pytest==9.1.1 and pytest-json-ctrf==0.5.2
+PASS  verifier image copies tests/ into /tests
+PASS  verifier image pre-creates the artifact parent /app
+PASS  agent image copies nothing from solution/, tests/, the truth or the verifier's simulator
+PASS  agent image pins its pip dependencies with ==
+PASS  agent image does not pin apt package versions
+PASS  agent image updates apt and cleans its lists in one layer
+PASS  test.sh writes reward 0 before running pytest
+PASS  test.sh always exits 0
+PASS  test.sh installs nothing
+PASS  test.sh writes the CTRF report
+PASS  no truth, seed or simulation language in environment/data
+PASS  the truth is not in the agent image
+PASS  environment/ contains no reference to the truth
+PASS  README has no leftover placeholders
+PASS  the metadata explanations carry no pass rates, model names or trial talk
+PASS  README carries the three metadata explanations
+PASS  every probe count stated in README matches the 29 probes in harness.txt
+PASS  the verifier's simulator is the generator's (tests/simcore.py = authoring/simcore.py)
+PASS  feasibility.txt shows the episode recall limit inside the detectable ceiling
+PASS  floor.txt shows every patient able to meet both plan limits with the true physiology
+PASS  detector_sweep.txt reproduces the shipped episodes at the shipped operating point
+PASS  harness.txt: oracle reward 1 twice byte-identical, and every probe as expected
+PASS  regenerate.txt records byte-for-byte regeneration
+PASS  consistency.txt has no FAIL line
+PASS  the ablation and blind-trial counts stated in README match the evidence
+PASS  the run time, memory and grading time stated in README match reference_run.txt and harness.txt
+PASS  every graded limit reads the same in the verifier, its docstrings and the instruction
+PASS  the verifier never reads tests/truth.json with a default (no .get( except data.get()
+PASS  the verifier has no conditional fallback for a missing truth key
+PASS  the truth carries every patient's parameters, end-of-record state and plan-block inputs, and the hidden episodes
+PASS  no bare nproc anywhere the task runs
+PASS  the reference pins BLAS to one thread before importing numpy
+PASS  the reference imports nothing from tests/ or the truth
+PASS  the reference never mentions the truth
+PASS  README says there are 5 tests, and no other count
+PASS  the README table lists all 5 tests (found 5)
+
+0 FAIL lines

@@ -1,0 +1,38 @@
+Unrecorded episodes, expected score with everything else known:
+  P05 2026-04-13 missed_dose               4 days  z  6.90
+  P11 2026-02-24 missed_dose               4 days  z  5.84
+  P10 2026-03-01 missed_dose               4 days  z  5.77
+  P02 2026-02-10 missed_dose               4 days  z  5.76
+  P10 2026-02-15 missed_dose               4 days  z  5.47
+  P03 2026-04-07 missed_dose               4 days  z  5.19
+  P11 2026-04-12 missed_dose               3 days  z  4.81
+  P12 2026-05-21 missed_dose               4 days  z  4.41
+  P10 2026-06-17 missed_dose               3 days  z  4.31
+  P07 2026-04-20 unrecorded_interaction   10 days  z  4.04
+  P11 2026-01-31 unrecorded_interaction   11 days  z  3.93
+  P11 2026-05-25 unrecorded_interaction   11 days  z  3.87
+  P06 2026-04-29 unrecorded_interaction   14 days  z  3.85
+  P01 2026-04-20 missed_dose               2 days  z  3.67
+  P06 2026-03-31 unrecorded_interaction   11 days  z  3.60
+  P05 2026-01-31 missed_dose               3 days  z  3.58
+  P07 2026-03-19 unrecorded_interaction    8 days  z  3.40
+  P06 2026-01-30 unrecorded_interaction   10 days  z  3.36
+  P12 2026-01-26 missed_dose               3 days  z  3.20
+  P08 2026-04-26 missed_dose               3 days  z  3.12
+  P03 2026-05-02 unrecorded_interaction    8 days  z  3.11
+  P07 2026-02-18 unrecorded_interaction    7 days  z  3.02
+  P10 2026-03-23 unrecorded_interaction    8 days  z  2.94
+  P02 2026-06-05 unrecorded_interaction   11 days  z  2.93
+  P04 2026-01-22 unrecorded_interaction    8 days  z  2.84
+  P08 2026-03-05 missed_dose               3 days  z  2.82
+  P12 2026-03-07 unrecorded_interaction   10 days  z  2.69
+  P12 2026-02-15 missed_dose               2 days  z  2.68
+  P02 2026-04-30 unrecorded_interaction    9 days  z  2.66
+  P07 2026-02-04 missed_dose               2 days  z  2.21
+  P01 2026-05-23 missed_dose               3 days  z  1.13
+  P03 2026-01-23 missed_dose               2 days  z  0.92
+  episodes with expected z >= 5.0: 6 of 32
+  episodes with expected z >= 4.0: 10 of 32
+  episodes with expected z >= 3.0: 22 of 32
+  episodes with expected z >= 2.0: 30 of 32
+recall limit 0.6 needs 20 of 32; 22 have an expected score of 3 or more: the limit is inside the ceiling

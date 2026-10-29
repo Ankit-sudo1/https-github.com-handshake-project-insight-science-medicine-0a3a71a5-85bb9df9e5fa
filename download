@@ -1,0 +1,8 @@
+authoring/
+solution/
+README.md
+task.toml
+instruction.md
+**/__pycache__/
+**/*.pyc
+.git/

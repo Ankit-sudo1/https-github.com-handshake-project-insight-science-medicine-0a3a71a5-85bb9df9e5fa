@@ -1,0 +1,2 @@
+
+wall time 128 s; peak resident memory of the solver 76 MB

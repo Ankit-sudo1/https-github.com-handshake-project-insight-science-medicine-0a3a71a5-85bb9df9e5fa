@@ -1,0 +1,61 @@
+z_add 2.50  reported  43 correct  25  precision 0.581 recall 0.781  fail
+z_add 2.60  reported  40 correct  25  precision 0.625 recall 0.781  fail
+z_add 2.70  reported  36 correct  24  precision 0.667 recall 0.750  fail
+z_add 2.75  reported  34 correct  24  precision 0.706 recall 0.750  fail
+z_add 2.80  reported  31 correct  24  precision 0.774 recall 0.750  PASS
+z_add 2.85  reported  30 correct  23  precision 0.767 recall 0.719  PASS
+z_add 2.90  reported  27 correct  20  precision 0.741 recall 0.625  fail
+z_add 3.00  reported  25 correct  19  precision 0.760 recall 0.594  fail
+z_add 3.10  reported  23 correct  17  precision 0.739 recall 0.531  fail
+z_add 3.25  reported  18 correct  15  precision 0.833 recall 0.469  fail
+z_add 3.50  reported  15 correct  13  precision 0.867 recall 0.406  fail
+z_add 3.75  reported  10 correct   9  precision 0.900 recall 0.281  fail
+z_add 4.00  reported   9 correct   8  precision 0.889 recall 0.250  fail
+z_add 4.50  reported   1 correct   1  precision 1.000 recall 0.031  fail
+z_add 5.00  reported   0 correct   0  precision 0.000 recall 0.000  fail
+the grid at the shipped point reproduces the reference's submitted episodes: yes
+2 of 15 joining thresholds clear both limits (precision >= 0.75, recall >= 0.6); shipped point 2.82
+forward selection over all patients, strongest first (patient, start, cause, days, z, correct?):
+  P05 2026-04-14 missed_dose               4  z  4.59  correct
+  P02 2026-02-10 missed_dose               4  z  4.46  correct
+  P12 2026-05-21 missed_dose               4  z  4.31  correct
+  P09 2026-05-07 unrecorded_interaction    7  z  4.28  false
+  P10 2026-03-01 missed_dose               4  z  4.26  correct
+  P11 2026-02-24 missed_dose               4  z  4.19  correct
+  P11 2026-05-23 unrecorded_interaction   13  z  4.09  correct
+  P10 2026-06-16 missed_dose               3  z  4.08  correct
+  P01 2026-04-19 missed_dose               3  z  4.03  correct
+  P06 2026-04-28 unrecorded_interaction   13  z  3.79  correct
+  P10 2026-06-04 unrecorded_interaction    9  z  3.73  false
+  P11 2026-04-12 missed_dose               3  z  3.69  correct
+  P10 2026-02-15 missed_dose               4  z  3.65  correct
+  P08 2026-03-05 missed_dose               4  z  3.59  correct
+  P03 2026-04-07 missed_dose               3  z  3.52  correct
+  P07 2026-04-19 unrecorded_interaction   13  z  3.47  correct
+  P08 2026-04-26 missed_dose               2  z  3.40  correct
+  P09 2026-02-05 missed_dose               2  z  3.36  false
+  P09 2026-02-28 unrecorded_interaction    9  z  3.24  false
+  P07 2026-02-11 unrecorded_interaction   13  z  3.20  false
+  P06 2026-02-02 unrecorded_interaction    7  z  3.15  correct
+  P12 2026-01-25 missed_dose               2  z  3.14  correct
+  P10 2026-04-04 unrecorded_interaction    7  z  3.11  false
+  P06 2026-04-01 unrecorded_interaction    9  z  3.06  correct
+  P12 2026-02-14 missed_dose               2  z  3.03  correct
+  P09 2026-06-16 missed_dose               2  z  2.97  false
+  P02 2026-04-29 unrecorded_interaction   13  z  2.96  correct
+  P10 2026-03-20 unrecorded_interaction   11  z  2.88  correct
+  P12 2026-03-08 unrecorded_interaction    9  z  2.87  correct
+  P02 2026-06-08 unrecorded_interaction    7  z  2.86  correct
+  P07 2026-03-19 unrecorded_interaction    9  z  2.84  correct
+  P06 2026-06-01 missed_dose               2  z  2.80  false
+  P02 2026-03-19 missed_dose               4  z  2.78  false
+  P06 2026-05-18 missed_dose               2  z  2.77  false
+  P03 2026-04-28 missed_dose               2  z  2.73  false
+  P02 2026-01-27 unrecorded_interaction    7  z  2.71  false
+  P02 2026-05-15 unrecorded_interaction    7  z  2.68  false
+  P02 2026-06-30 missed_dose               3  z  2.65  false
+  P04 2026-01-22 unrecorded_interaction    9  z  2.65  correct
+  P02 2026-04-13 missed_dose               3  z  2.62  false
+  P03 2026-06-25 missed_dose               3  z  2.59  false
+  P08 2026-04-11 unrecorded_interaction   13  z  2.56  false
+  P01 2026-03-04 missed_dose               2  z  2.51  false

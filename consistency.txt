@@ -1,0 +1,18 @@
+PASS  twelve patients, the same in patients.csv and the truth
+PASS  every row names a patient of patients.csv
+PASS  doses.csv has every day of the record, 2026-01-05 to 2026-07-05, for every patient
+PASS  every diary dose is a multiple of 0.5 mg
+PASS  every INR result lies within the record
+PASS  every INR result is rounded to 0.1
+PASS  at most one INR result per patient per day
+PASS  plan_days.csv has each patient's 56 days, 2026-07-06 to 2026-08-30
+PASS  the truth's record and plan dates are the instruction's
+PASS  every hidden episode names a patient and one of the instruction's two causes
+PASS  every hidden episode starts within the record
+PASS  missed-dose spells last 2 to 4 days and unrecorded courses 7 to 14 days, as the instruction states
+PASS  no unrecorded course overlaps a recorded one
+PASS  the two planned events in clinic_log.csv fall in the plan block
+PASS  the truth carries 56 days of vitamin K factor and interaction multiplier for every patient
+PASS  protocol.md (430 words) is shorter than the instruction (536)
+
+0 FAIL lines

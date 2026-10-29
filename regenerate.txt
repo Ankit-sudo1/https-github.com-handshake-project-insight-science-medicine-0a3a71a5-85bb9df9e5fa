@@ -1,0 +1,12 @@
+Regeneration from a clean copy (authoring/regenerate_check.sh)
+  generator: 12 patients, 570 INR results, 9 recorded antibiotic courses, 32 hidden episodes
+identical  environment/data/clinic_log.csv
+identical  environment/data/doses.csv
+identical  environment/data/inr.csv
+identical  environment/data/patients.csv
+identical  environment/data/plan_days.csv
+identical  environment/data/protocol.md
+identical  tests/truth.json
+identical  tests/simcore.py
+identical  authoring/simcore.py = tests/simcore.py
+every file reproduced byte for byte

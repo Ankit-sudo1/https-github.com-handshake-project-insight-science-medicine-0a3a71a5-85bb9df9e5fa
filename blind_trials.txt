@@ -1,0 +1,22 @@
+Blind trials: a separate solver given only instruction.md and a copy of environment/data in a directory it could
+not leave, with no grader, graded afterwards with the verifier's code.
+
+Trial 1 (shipped data; the limits were then 0.70 precision, 0.60 recall, 75% time in range)
+  Built: the clinic's model with a 42-day run-in, a closed-form best vitamin K path and marginal likelihood per
+  patient (half-life, EC50, spread, with a weak half-life prior), shared antibiotic factor 1.68 and amiodarone 1.65,
+  a greedy episode search over every start, length and cause, and a threshold calibrated on 230 synthetic patients
+  matched to the record; doses chosen by simulation over 2,300 sampled patient states to maximise the chance of
+  passing both plan limits. About 1 h 50 min.
+  Result: 28 episodes reported, 20 correct: precision 0.714, recall 0.625; lowest time in range 0.964, no unsafe
+  morning. Reward 1 under the limits then in force; it estimated its own chance of passing at 60-78%.
+  Under the shipped limits (0.75 precision, 0.60 recall, 80% time in range): reward 0, on precision alone.
+
+Trial 2 (shipped data and shipped limits)
+  Built: the clinic's model with a 42-day run-in, the vitamin K path integrated out by a Laplace approximation, and
+  a reversible-jump MCMC over every patient's half-life, EC50, vitamin K spread and episode set, with the shared
+  antibiotic (1.60) and amiodarone (1.67) factors and population-level episode rates (5 chains); a synthetic
+  12-patient cohort to check calibration; the number of episodes to report chosen to maximise the posterior
+  chance of meeting both limits (which it put at 0.45); doses chosen by simulation over about 2,000 posterior
+  states per patient. About 3.5-4 h.
+  Result: 24 episodes reported, 18 correct: precision 0.750, recall 0.5625; lowest time in range 0.946, no unsafe
+  morning. Reward 0, on recall alone.

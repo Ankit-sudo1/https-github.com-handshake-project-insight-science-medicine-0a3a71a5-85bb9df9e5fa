@@ -1,0 +1,3521 @@
+{
+"episodes": [
+{
+"patient": "P01",
+"start": "2026-04-19",
+"cause": "missed_dose"
+},
+{
+"patient": "P02",
+"start": "2026-02-10",
+"cause": "missed_dose"
+},
+{
+"patient": "P02",
+"start": "2026-04-29",
+"cause": "unrecorded_interaction"
+},
+{
+"patient": "P02",
+"start": "2026-06-08",
+"cause": "unrecorded_interaction"
+},
+{
+"patient": "P03",
+"start": "2026-04-07",
+"cause": "missed_dose"
+},
+{
+"patient": "P05",
+"start": "2026-04-14",
+"cause": "missed_dose"
+},
+{
+"patient": "P06",
+"start": "2026-02-02",
+"cause": "unrecorded_interaction"
+},
+{
+"patient": "P06",
+"start": "2026-04-01",
+"cause": "unrecorded_interaction"
+},
+{
+"patient": "P06",
+"start": "2026-04-28",
+"cause": "unrecorded_interaction"
+},
+{
+"patient": "P07",
+"start": "2026-02-11",
+"cause": "unrecorded_interaction"
+},
+{
+"patient": "P07",
+"start": "2026-03-19",
+"cause": "unrecorded_interaction"
+},
+{
+"patient": "P07",
+"start": "2026-04-19",
+"cause": "unrecorded_interaction"
+},
+{
+"patient": "P08",
+"start": "2026-03-05",
+"cause": "missed_dose"
+},
+{
+"patient": "P08",
+"start": "2026-04-26",
+"cause": "missed_dose"
+},
+{
+"patient": "P09",
+"start": "2026-02-05",
+"cause": "missed_dose"
+},
+{
+"patient": "P09",
+"start": "2026-02-28",
+"cause": "unrecorded_interaction"
+},
+{
+"patient": "P09",
+"start": "2026-05-07",
+"cause": "unrecorded_interaction"
+},
+{
+"patient": "P09",
+"start": "2026-06-16",
+"cause": "missed_dose"
+},
+{
+"patient": "P10",
+"start": "2026-02-15",
+"cause": "missed_dose"
+},
+{
+"patient": "P10",
+"start": "2026-03-01",
+"cause": "missed_dose"
+},
+{
+"patient": "P10",
+"start": "2026-03-20",
+"cause": "unrecorded_interaction"
+},
+{
+"patient": "P10",
+"start": "2026-04-04",
+"cause": "unrecorded_interaction"
+},
+{
+"patient": "P10",
+"start": "2026-06-04",
+"cause": "unrecorded_interaction"
+},
+{
+"patient": "P10",
+"start": "2026-06-16",
+"cause": "missed_dose"
+},
+{
+"patient": "P11",
+"start": "2026-02-24",
+"cause": "missed_dose"
+},
+{
+"patient": "P11",
+"start": "2026-04-12",
+"cause": "missed_dose"
+},
+{
+"patient": "P11",
+"start": "2026-05-23",
+"cause": "unrecorded_interaction"
+},
+{
+"patient": "P12",
+"start": "2026-01-25",
+"cause": "missed_dose"
+},
+{
+"patient": "P12",
+"start": "2026-02-14",
+"cause": "missed_dose"
+},
+{
+"patient": "P12",
+"start": "2026-03-08",
+"cause": "unrecorded_interaction"
+},
+{
+"patient": "P12",
+"start": "2026-05-21",
+"cause": "missed_dose"
+}
+],
+"doses": [
+{
+"patient": "P01",
+"date": "2026-07-06",
+"dose_mg": 7.0
+},
+{
+"patient": "P01",
+"date": "2026-07-07",
+"dose_mg": 7.0
+},
+{
+"patient": "P01",
+"date": "2026-07-08",
+"dose_mg": 7.5
+},
+{
+"patient": "P01",
+"date": "2026-07-09",
+"dose_mg": 7.5
+},
+{
+"patient": "P01",
+"date": "2026-07-10",
+"dose_mg": 7.0
+},
+{
+"patient": "P01",
+"date": "2026-07-11",
+"dose_mg": 7.5
+},
+{
+"patient": "P01",
+"date": "2026-07-12",
+"dose_mg": 7.5
+},
+{
+"patient": "P01",
+"date": "2026-07-13",
+"dose_mg": 7.0
+},
+{
+"patient": "P01",
+"date": "2026-07-14",
+"dose_mg": 7.5
+},
+{
+"patient": "P01",
+"date": "2026-07-15",
+"dose_mg": 7.5
+},
+{
+"patient": "P01",
+"date": "2026-07-16",
+"dose_mg": 7.0
+},
+{
+"patient": "P01",
+"date": "2026-07-17",
+"dose_mg": 7.5
+},
+{
+"patient": "P01",
+"date": "2026-07-18",
+"dose_mg": 7.5
+},
+{
+"patient": "P01",
+"date": "2026-07-19",
+"dose_mg": 7.0
+},
+{
+"patient": "P01",
+"date": "2026-07-20",
+"dose_mg": 7.5
+},
+{
+"patient": "P01",
+"date": "2026-07-21",
+"dose_mg": 7.5
+},
+{
+"patient": "P01",
+"date": "2026-07-22",
+"dose_mg": 7.0
+},
+{
+"patient": "P01",
+"date": "2026-07-23",
+"dose_mg": 7.5
+},
+{
+"patient": "P01",
+"date": "2026-07-24",
+"dose_mg": 7.5
+},
+{
+"patient": "P01",
+"date": "2026-07-25",
+"dose_mg": 7.0
+},
+{
+"patient": "P01",
+"date": "2026-07-26",
+"dose_mg": 7.5
+},
+{
+"patient": "P01",
+"date": "2026-07-27",
+"dose_mg": 7.5
+},
+{
+"patient": "P01",
+"date": "2026-07-28",
+"dose_mg": 7.0
+},
+{
+"patient": "P01",
+"date": "2026-07-29",
+"dose_mg": 7.5
+},
+{
+"patient": "P01",
+"date": "2026-07-30",
+"dose_mg": 7.5
+},
+{
+"patient": "P01",
+"date": "2026-07-31",
+"dose_mg": 7.0
+},
+{
+"patient": "P01",
+"date": "2026-08-01",
+"dose_mg": 7.5
+},
+{
+"patient": "P01",
+"date": "2026-08-02",
+"dose_mg": 7.5
+},
+{
+"patient": "P01",
+"date": "2026-08-03",
+"dose_mg": 7.0
+},
+{
+"patient": "P01",
+"date": "2026-08-04",
+"dose_mg": 7.5
+},
+{
+"patient": "P01",
+"date": "2026-08-05",
+"dose_mg": 7.5
+},
+{
+"patient": "P01",
+"date": "2026-08-06",
+"dose_mg": 7.0
+},
+{
+"patient": "P01",
+"date": "2026-08-07",
+"dose_mg": 7.5
+},
+{
+"patient": "P01",
+"date": "2026-08-08",
+"dose_mg": 7.5
+},
+{
+"patient": "P01",
+"date": "2026-08-09",
+"dose_mg": 7.0
+},
+{
+"patient": "P01",
+"date": "2026-08-10",
+"dose_mg": 7.5
+},
+{
+"patient": "P01",
+"date": "2026-08-11",
+"dose_mg": 7.5
+},
+{
+"patient": "P01",
+"date": "2026-08-12",
+"dose_mg": 7.0
+},
+{
+"patient": "P01",
+"date": "2026-08-13",
+"dose_mg": 7.5
+},
+{
+"patient": "P01",
+"date": "2026-08-14",
+"dose_mg": 7.5
+},
+{
+"patient": "P01",
+"date": "2026-08-15",
+"dose_mg": 7.0
+},
+{
+"patient": "P01",
+"date": "2026-08-16",
+"dose_mg": 7.5
+},
+{
+"patient": "P01",
+"date": "2026-08-17",
+"dose_mg": 7.5
+},
+{
+"patient": "P01",
+"date": "2026-08-18",
+"dose_mg": 7.0
+},
+{
+"patient": "P01",
+"date": "2026-08-19",
+"dose_mg": 7.5
+},
+{
+"patient": "P01",
+"date": "2026-08-20",
+"dose_mg": 7.5
+},
+{
+"patient": "P01",
+"date": "2026-08-21",
+"dose_mg": 7.0
+},
+{
+"patient": "P01",
+"date": "2026-08-22",
+"dose_mg": 7.5
+},
+{
+"patient": "P01",
+"date": "2026-08-23",
+"dose_mg": 7.5
+},
+{
+"patient": "P01",
+"date": "2026-08-24",
+"dose_mg": 7.0
+},
+{
+"patient": "P01",
+"date": "2026-08-25",
+"dose_mg": 7.5
+},
+{
+"patient": "P01",
+"date": "2026-08-26",
+"dose_mg": 7.5
+},
+{
+"patient": "P01",
+"date": "2026-08-27",
+"dose_mg": 7.0
+},
+{
+"patient": "P01",
+"date": "2026-08-28",
+"dose_mg": 7.5
+},
+{
+"patient": "P01",
+"date": "2026-08-29",
+"dose_mg": 7.5
+},
+{
+"patient": "P01",
+"date": "2026-08-30",
+"dose_mg": 7.0
+},
+{
+"patient": "P02",
+"date": "2026-07-06",
+"dose_mg": 8.0
+},
+{
+"patient": "P02",
+"date": "2026-07-07",
+"dose_mg": 7.5
+},
+{
+"patient": "P02",
+"date": "2026-07-08",
+"dose_mg": 7.5
+},
+{
+"patient": "P02",
+"date": "2026-07-09",
+"dose_mg": 7.5
+},
+{
+"patient": "P02",
+"date": "2026-07-10",
+"dose_mg": 7.5
+},
+{
+"patient": "P02",
+"date": "2026-07-11",
+"dose_mg": 7.5
+},
+{
+"patient": "P02",
+"date": "2026-07-12",
+"dose_mg": 7.5
+},
+{
+"patient": "P02",
+"date": "2026-07-13",
+"dose_mg": 7.5
+},
+{
+"patient": "P02",
+"date": "2026-07-14",
+"dose_mg": 7.5
+},
+{
+"patient": "P02",
+"date": "2026-07-15",
+"dose_mg": 7.5
+},
+{
+"patient": "P02",
+"date": "2026-07-16",
+"dose_mg": 7.5
+},
+{
+"patient": "P02",
+"date": "2026-07-17",
+"dose_mg": 7.5
+},
+{
+"patient": "P02",
+"date": "2026-07-18",
+"dose_mg": 7.5
+},
+{
+"patient": "P02",
+"date": "2026-07-19",
+"dose_mg": 7.5
+},
+{
+"patient": "P02",
+"date": "2026-07-20",
+"dose_mg": 7.5
+},
+{
+"patient": "P02",
+"date": "2026-07-21",
+"dose_mg": 7.5
+},
+{
+"patient": "P02",
+"date": "2026-07-22",
+"dose_mg": 7.5
+},
+{
+"patient": "P02",
+"date": "2026-07-23",
+"dose_mg": 7.5
+},
+{
+"patient": "P02",
+"date": "2026-07-24",
+"dose_mg": 6.0
+},
+{
+"patient": "P02",
+"date": "2026-07-25",
+"dose_mg": 5.5
+},
+{
+"patient": "P02",
+"date": "2026-07-26",
+"dose_mg": 5.0
+},
+{
+"patient": "P02",
+"date": "2026-07-27",
+"dose_mg": 5.0
+},
+{
+"patient": "P02",
+"date": "2026-07-28",
+"dose_mg": 4.5
+},
+{
+"patient": "P02",
+"date": "2026-07-29",
+"dose_mg": 4.5
+},
+{
+"patient": "P02",
+"date": "2026-07-30",
+"dose_mg": 4.5
+},
+{
+"patient": "P02",
+"date": "2026-07-31",
+"dose_mg": 5.0
+},
+{
+"patient": "P02",
+"date": "2026-08-01",
+"dose_mg": 6.0
+},
+{
+"patient": "P02",
+"date": "2026-08-02",
+"dose_mg": 6.5
+},
+{
+"patient": "P02",
+"date": "2026-08-03",
+"dose_mg": 7.0
+},
+{
+"patient": "P02",
+"date": "2026-08-04",
+"dose_mg": 7.0
+},
+{
+"patient": "P02",
+"date": "2026-08-05",
+"dose_mg": 7.5
+},
+{
+"patient": "P02",
+"date": "2026-08-06",
+"dose_mg": 7.5
+},
+{
+"patient": "P02",
+"date": "2026-08-07",
+"dose_mg": 7.5
+},
+{
+"patient": "P02",
+"date": "2026-08-08",
+"dose_mg": 7.5
+},
+{
+"patient": "P02",
+"date": "2026-08-09",
+"dose_mg": 7.5
+},
+{
+"patient": "P02",
+"date": "2026-08-10",
+"dose_mg": 7.5
+},
+{
+"patient": "P02",
+"date": "2026-08-11",
+"dose_mg": 7.5
+},
+{
+"patient": "P02",
+"date": "2026-08-12",
+"dose_mg": 7.5
+},
+{
+"patient": "P02",
+"date": "2026-08-13",
+"dose_mg": 7.5
+},
+{
+"patient": "P02",
+"date": "2026-08-14",
+"dose_mg": 7.5
+},
+{
+"patient": "P02",
+"date": "2026-08-15",
+"dose_mg": 7.5
+},
+{
+"patient": "P02",
+"date": "2026-08-16",
+"dose_mg": 7.5
+},
+{
+"patient": "P02",
+"date": "2026-08-17",
+"dose_mg": 7.5
+},
+{
+"patient": "P02",
+"date": "2026-08-18",
+"dose_mg": 7.5
+},
+{
+"patient": "P02",
+"date": "2026-08-19",
+"dose_mg": 7.5
+},
+{
+"patient": "P02",
+"date": "2026-08-20",
+"dose_mg": 7.5
+},
+{
+"patient": "P02",
+"date": "2026-08-21",
+"dose_mg": 7.5
+},
+{
+"patient": "P02",
+"date": "2026-08-22",
+"dose_mg": 7.5
+},
+{
+"patient": "P02",
+"date": "2026-08-23",
+"dose_mg": 7.5
+},
+{
+"patient": "P02",
+"date": "2026-08-24",
+"dose_mg": 7.5
+},
+{
+"patient": "P02",
+"date": "2026-08-25",
+"dose_mg": 7.5
+},
+{
+"patient": "P02",
+"date": "2026-08-26",
+"dose_mg": 7.5
+},
+{
+"patient": "P02",
+"date": "2026-08-27",
+"dose_mg": 7.5
+},
+{
+"patient": "P02",
+"date": "2026-08-28",
+"dose_mg": 7.5
+},
+{
+"patient": "P02",
+"date": "2026-08-29",
+"dose_mg": 7.5
+},
+{
+"patient": "P02",
+"date": "2026-08-30",
+"dose_mg": 7.5
+},
+{
+"patient": "P03",
+"date": "2026-07-06",
+"dose_mg": 5.5
+},
+{
+"patient": "P03",
+"date": "2026-07-07",
+"dose_mg": 5.0
+},
+{
+"patient": "P03",
+"date": "2026-07-08",
+"dose_mg": 5.0
+},
+{
+"patient": "P03",
+"date": "2026-07-09",
+"dose_mg": 5.0
+},
+{
+"patient": "P03",
+"date": "2026-07-10",
+"dose_mg": 5.0
+},
+{
+"patient": "P03",
+"date": "2026-07-11",
+"dose_mg": 5.0
+},
+{
+"patient": "P03",
+"date": "2026-07-12",
+"dose_mg": 5.0
+},
+{
+"patient": "P03",
+"date": "2026-07-13",
+"dose_mg": 5.0
+},
+{
+"patient": "P03",
+"date": "2026-07-14",
+"dose_mg": 5.0
+},
+{
+"patient": "P03",
+"date": "2026-07-15",
+"dose_mg": 5.0
+},
+{
+"patient": "P03",
+"date": "2026-07-16",
+"dose_mg": 5.0
+},
+{
+"patient": "P03",
+"date": "2026-07-17",
+"dose_mg": 5.0
+},
+{
+"patient": "P03",
+"date": "2026-07-18",
+"dose_mg": 5.0
+},
+{
+"patient": "P03",
+"date": "2026-07-19",
+"dose_mg": 5.0
+},
+{
+"patient": "P03",
+"date": "2026-07-20",
+"dose_mg": 5.0
+},
+{
+"patient": "P03",
+"date": "2026-07-21",
+"dose_mg": 5.0
+},
+{
+"patient": "P03",
+"date": "2026-07-22",
+"dose_mg": 5.0
+},
+{
+"patient": "P03",
+"date": "2026-07-23",
+"dose_mg": 5.0
+},
+{
+"patient": "P03",
+"date": "2026-07-24",
+"dose_mg": 5.0
+},
+{
+"patient": "P03",
+"date": "2026-07-25",
+"dose_mg": 5.0
+},
+{
+"patient": "P03",
+"date": "2026-07-26",
+"dose_mg": 5.0
+},
+{
+"patient": "P03",
+"date": "2026-07-27",
+"dose_mg": 5.0
+},
+{
+"patient": "P03",
+"date": "2026-07-28",
+"dose_mg": 5.0
+},
+{
+"patient": "P03",
+"date": "2026-07-29",
+"dose_mg": 5.0
+},
+{
+"patient": "P03",
+"date": "2026-07-30",
+"dose_mg": 5.0
+},
+{
+"patient": "P03",
+"date": "2026-07-31",
+"dose_mg": 5.0
+},
+{
+"patient": "P03",
+"date": "2026-08-01",
+"dose_mg": 5.0
+},
+{
+"patient": "P03",
+"date": "2026-08-02",
+"dose_mg": 5.0
+},
+{
+"patient": "P03",
+"date": "2026-08-03",
+"dose_mg": 5.0
+},
+{
+"patient": "P03",
+"date": "2026-08-04",
+"dose_mg": 5.0
+},
+{
+"patient": "P03",
+"date": "2026-08-05",
+"dose_mg": 5.0
+},
+{
+"patient": "P03",
+"date": "2026-08-06",
+"dose_mg": 5.0
+},
+{
+"patient": "P03",
+"date": "2026-08-07",
+"dose_mg": 5.0
+},
+{
+"patient": "P03",
+"date": "2026-08-08",
+"dose_mg": 5.0
+},
+{
+"patient": "P03",
+"date": "2026-08-09",
+"dose_mg": 5.0
+},
+{
+"patient": "P03",
+"date": "2026-08-10",
+"dose_mg": 5.0
+},
+{
+"patient": "P03",
+"date": "2026-08-11",
+"dose_mg": 5.0
+},
+{
+"patient": "P03",
+"date": "2026-08-12",
+"dose_mg": 5.0
+},
+{
+"patient": "P03",
+"date": "2026-08-13",
+"dose_mg": 5.0
+},
+{
+"patient": "P03",
+"date": "2026-08-14",
+"dose_mg": 5.0
+},
+{
+"patient": "P03",
+"date": "2026-08-15",
+"dose_mg": 5.0
+},
+{
+"patient": "P03",
+"date": "2026-08-16",
+"dose_mg": 5.0
+},
+{
+"patient": "P03",
+"date": "2026-08-17",
+"dose_mg": 5.0
+},
+{
+"patient": "P03",
+"date": "2026-08-18",
+"dose_mg": 5.0
+},
+{
+"patient": "P03",
+"date": "2026-08-19",
+"dose_mg": 5.0
+},
+{
+"patient": "P03",
+"date": "2026-08-20",
+"dose_mg": 5.0
+},
+{
+"patient": "P03",
+"date": "2026-08-21",
+"dose_mg": 5.0
+},
+{
+"patient": "P03",
+"date": "2026-08-22",
+"dose_mg": 5.0
+},
+{
+"patient": "P03",
+"date": "2026-08-23",
+"dose_mg": 5.0
+},
+{
+"patient": "P03",
+"date": "2026-08-24",
+"dose_mg": 5.0
+},
+{
+"patient": "P03",
+"date": "2026-08-25",
+"dose_mg": 5.0
+},
+{
+"patient": "P03",
+"date": "2026-08-26",
+"dose_mg": 5.0
+},
+{
+"patient": "P03",
+"date": "2026-08-27",
+"dose_mg": 5.0
+},
+{
+"patient": "P03",
+"date": "2026-08-28",
+"dose_mg": 5.0
+},
+{
+"patient": "P03",
+"date": "2026-08-29",
+"dose_mg": 5.0
+},
+{
+"patient": "P03",
+"date": "2026-08-30",
+"dose_mg": 5.0
+},
+{
+"patient": "P04",
+"date": "2026-07-06",
+"dose_mg": 6.5
+},
+{
+"patient": "P04",
+"date": "2026-07-07",
+"dose_mg": 6.5
+},
+{
+"patient": "P04",
+"date": "2026-07-08",
+"dose_mg": 6.5
+},
+{
+"patient": "P04",
+"date": "2026-07-09",
+"dose_mg": 6.5
+},
+{
+"patient": "P04",
+"date": "2026-07-10",
+"dose_mg": 6.5
+},
+{
+"patient": "P04",
+"date": "2026-07-11",
+"dose_mg": 6.5
+},
+{
+"patient": "P04",
+"date": "2026-07-12",
+"dose_mg": 6.5
+},
+{
+"patient": "P04",
+"date": "2026-07-13",
+"dose_mg": 6.5
+},
+{
+"patient": "P04",
+"date": "2026-07-14",
+"dose_mg": 6.5
+},
+{
+"patient": "P04",
+"date": "2026-07-15",
+"dose_mg": 6.5
+},
+{
+"patient": "P04",
+"date": "2026-07-16",
+"dose_mg": 6.5
+},
+{
+"patient": "P04",
+"date": "2026-07-17",
+"dose_mg": 6.5
+},
+{
+"patient": "P04",
+"date": "2026-07-18",
+"dose_mg": 6.5
+},
+{
+"patient": "P04",
+"date": "2026-07-19",
+"dose_mg": 6.5
+},
+{
+"patient": "P04",
+"date": "2026-07-20",
+"dose_mg": 6.5
+},
+{
+"patient": "P04",
+"date": "2026-07-21",
+"dose_mg": 6.5
+},
+{
+"patient": "P04",
+"date": "2026-07-22",
+"dose_mg": 6.5
+},
+{
+"patient": "P04",
+"date": "2026-07-23",
+"dose_mg": 6.5
+},
+{
+"patient": "P04",
+"date": "2026-07-24",
+"dose_mg": 6.5
+},
+{
+"patient": "P04",
+"date": "2026-07-25",
+"dose_mg": 6.5
+},
+{
+"patient": "P04",
+"date": "2026-07-26",
+"dose_mg": 6.5
+},
+{
+"patient": "P04",
+"date": "2026-07-27",
+"dose_mg": 6.5
+},
+{
+"patient": "P04",
+"date": "2026-07-28",
+"dose_mg": 6.5
+},
+{
+"patient": "P04",
+"date": "2026-07-29",
+"dose_mg": 6.5
+},
+{
+"patient": "P04",
+"date": "2026-07-30",
+"dose_mg": 6.5
+},
+{
+"patient": "P04",
+"date": "2026-07-31",
+"dose_mg": 6.5
+},
+{
+"patient": "P04",
+"date": "2026-08-01",
+"dose_mg": 6.5
+},
+{
+"patient": "P04",
+"date": "2026-08-02",
+"dose_mg": 6.5
+},
+{
+"patient": "P04",
+"date": "2026-08-03",
+"dose_mg": 6.5
+},
+{
+"patient": "P04",
+"date": "2026-08-04",
+"dose_mg": 6.5
+},
+{
+"patient": "P04",
+"date": "2026-08-05",
+"dose_mg": 6.5
+},
+{
+"patient": "P04",
+"date": "2026-08-06",
+"dose_mg": 6.5
+},
+{
+"patient": "P04",
+"date": "2026-08-07",
+"dose_mg": 6.5
+},
+{
+"patient": "P04",
+"date": "2026-08-08",
+"dose_mg": 6.5
+},
+{
+"patient": "P04",
+"date": "2026-08-09",
+"dose_mg": 6.5
+},
+{
+"patient": "P04",
+"date": "2026-08-10",
+"dose_mg": 6.5
+},
+{
+"patient": "P04",
+"date": "2026-08-11",
+"dose_mg": 6.5
+},
+{
+"patient": "P04",
+"date": "2026-08-12",
+"dose_mg": 6.5
+},
+{
+"patient": "P04",
+"date": "2026-08-13",
+"dose_mg": 6.5
+},
+{
+"patient": "P04",
+"date": "2026-08-14",
+"dose_mg": 6.5
+},
+{
+"patient": "P04",
+"date": "2026-08-15",
+"dose_mg": 6.5
+},
+{
+"patient": "P04",
+"date": "2026-08-16",
+"dose_mg": 6.5
+},
+{
+"patient": "P04",
+"date": "2026-08-17",
+"dose_mg": 6.5
+},
+{
+"patient": "P04",
+"date": "2026-08-18",
+"dose_mg": 6.5
+},
+{
+"patient": "P04",
+"date": "2026-08-19",
+"dose_mg": 6.5
+},
+{
+"patient": "P04",
+"date": "2026-08-20",
+"dose_mg": 6.5
+},
+{
+"patient": "P04",
+"date": "2026-08-21",
+"dose_mg": 6.5
+},
+{
+"patient": "P04",
+"date": "2026-08-22",
+"dose_mg": 6.5
+},
+{
+"patient": "P04",
+"date": "2026-08-23",
+"dose_mg": 6.5
+},
+{
+"patient": "P04",
+"date": "2026-08-24",
+"dose_mg": 6.5
+},
+{
+"patient": "P04",
+"date": "2026-08-25",
+"dose_mg": 6.5
+},
+{
+"patient": "P04",
+"date": "2026-08-26",
+"dose_mg": 6.5
+},
+{
+"patient": "P04",
+"date": "2026-08-27",
+"dose_mg": 6.5
+},
+{
+"patient": "P04",
+"date": "2026-08-28",
+"dose_mg": 6.5
+},
+{
+"patient": "P04",
+"date": "2026-08-29",
+"dose_mg": 6.5
+},
+{
+"patient": "P04",
+"date": "2026-08-30",
+"dose_mg": 6.5
+},
+{
+"patient": "P05",
+"date": "2026-07-06",
+"dose_mg": 5.0
+},
+{
+"patient": "P05",
+"date": "2026-07-07",
+"dose_mg": 5.0
+},
+{
+"patient": "P05",
+"date": "2026-07-08",
+"dose_mg": 5.0
+},
+{
+"patient": "P05",
+"date": "2026-07-09",
+"dose_mg": 5.0
+},
+{
+"patient": "P05",
+"date": "2026-07-10",
+"dose_mg": 4.5
+},
+{
+"patient": "P05",
+"date": "2026-07-11",
+"dose_mg": 5.0
+},
+{
+"patient": "P05",
+"date": "2026-07-12",
+"dose_mg": 4.5
+},
+{
+"patient": "P05",
+"date": "2026-07-13",
+"dose_mg": 5.0
+},
+{
+"patient": "P05",
+"date": "2026-07-14",
+"dose_mg": 4.5
+},
+{
+"patient": "P05",
+"date": "2026-07-15",
+"dose_mg": 4.5
+},
+{
+"patient": "P05",
+"date": "2026-07-16",
+"dose_mg": 5.0
+},
+{
+"patient": "P05",
+"date": "2026-07-17",
+"dose_mg": 4.5
+},
+{
+"patient": "P05",
+"date": "2026-07-18",
+"dose_mg": 5.0
+},
+{
+"patient": "P05",
+"date": "2026-07-19",
+"dose_mg": 4.5
+},
+{
+"patient": "P05",
+"date": "2026-07-20",
+"dose_mg": 5.0
+},
+{
+"patient": "P05",
+"date": "2026-07-21",
+"dose_mg": 4.5
+},
+{
+"patient": "P05",
+"date": "2026-07-22",
+"dose_mg": 4.5
+},
+{
+"patient": "P05",
+"date": "2026-07-23",
+"dose_mg": 5.0
+},
+{
+"patient": "P05",
+"date": "2026-07-24",
+"dose_mg": 4.5
+},
+{
+"patient": "P05",
+"date": "2026-07-25",
+"dose_mg": 5.0
+},
+{
+"patient": "P05",
+"date": "2026-07-26",
+"dose_mg": 4.5
+},
+{
+"patient": "P05",
+"date": "2026-07-27",
+"dose_mg": 5.0
+},
+{
+"patient": "P05",
+"date": "2026-07-28",
+"dose_mg": 4.5
+},
+{
+"patient": "P05",
+"date": "2026-07-29",
+"dose_mg": 4.5
+},
+{
+"patient": "P05",
+"date": "2026-07-30",
+"dose_mg": 5.0
+},
+{
+"patient": "P05",
+"date": "2026-07-31",
+"dose_mg": 4.5
+},
+{
+"patient": "P05",
+"date": "2026-08-01",
+"dose_mg": 5.0
+},
+{
+"patient": "P05",
+"date": "2026-08-02",
+"dose_mg": 4.5
+},
+{
+"patient": "P05",
+"date": "2026-08-03",
+"dose_mg": 5.0
+},
+{
+"patient": "P05",
+"date": "2026-08-04",
+"dose_mg": 4.5
+},
+{
+"patient": "P05",
+"date": "2026-08-05",
+"dose_mg": 4.5
+},
+{
+"patient": "P05",
+"date": "2026-08-06",
+"dose_mg": 5.0
+},
+{
+"patient": "P05",
+"date": "2026-08-07",
+"dose_mg": 4.5
+},
+{
+"patient": "P05",
+"date": "2026-08-08",
+"dose_mg": 5.0
+},
+{
+"patient": "P05",
+"date": "2026-08-09",
+"dose_mg": 4.5
+},
+{
+"patient": "P05",
+"date": "2026-08-10",
+"dose_mg": 5.0
+},
+{
+"patient": "P05",
+"date": "2026-08-11",
+"dose_mg": 4.5
+},
+{
+"patient": "P05",
+"date": "2026-08-12",
+"dose_mg": 4.5
+},
+{
+"patient": "P05",
+"date": "2026-08-13",
+"dose_mg": 5.0
+},
+{
+"patient": "P05",
+"date": "2026-08-14",
+"dose_mg": 4.5
+},
+{
+"patient": "P05",
+"date": "2026-08-15",
+"dose_mg": 5.0
+},
+{
+"patient": "P05",
+"date": "2026-08-16",
+"dose_mg": 4.5
+},
+{
+"patient": "P05",
+"date": "2026-08-17",
+"dose_mg": 5.0
+},
+{
+"patient": "P05",
+"date": "2026-08-18",
+"dose_mg": 4.5
+},
+{
+"patient": "P05",
+"date": "2026-08-19",
+"dose_mg": 4.5
+},
+{
+"patient": "P05",
+"date": "2026-08-20",
+"dose_mg": 5.0
+},
+{
+"patient": "P05",
+"date": "2026-08-21",
+"dose_mg": 4.5
+},
+{
+"patient": "P05",
+"date": "2026-08-22",
+"dose_mg": 5.0
+},
+{
+"patient": "P05",
+"date": "2026-08-23",
+"dose_mg": 4.5
+},
+{
+"patient": "P05",
+"date": "2026-08-24",
+"dose_mg": 5.0
+},
+{
+"patient": "P05",
+"date": "2026-08-25",
+"dose_mg": 4.5
+},
+{
+"patient": "P05",
+"date": "2026-08-26",
+"dose_mg": 4.5
+},
+{
+"patient": "P05",
+"date": "2026-08-27",
+"dose_mg": 5.0
+},
+{
+"patient": "P05",
+"date": "2026-08-28",
+"dose_mg": 4.5
+},
+{
+"patient": "P05",
+"date": "2026-08-29",
+"dose_mg": 5.0
+},
+{
+"patient": "P05",
+"date": "2026-08-30",
+"dose_mg": 4.5
+},
+{
+"patient": "P06",
+"date": "2026-07-06",
+"dose_mg": 8.0
+},
+{
+"patient": "P06",
+"date": "2026-07-07",
+"dose_mg": 7.5
+},
+{
+"patient": "P06",
+"date": "2026-07-08",
+"dose_mg": 7.5
+},
+{
+"patient": "P06",
+"date": "2026-07-09",
+"dose_mg": 7.0
+},
+{
+"patient": "P06",
+"date": "2026-07-10",
+"dose_mg": 7.0
+},
+{
+"patient": "P06",
+"date": "2026-07-11",
+"dose_mg": 7.0
+},
+{
+"patient": "P06",
+"date": "2026-07-12",
+"dose_mg": 7.0
+},
+{
+"patient": "P06",
+"date": "2026-07-13",
+"dose_mg": 7.0
+},
+{
+"patient": "P06",
+"date": "2026-07-14",
+"dose_mg": 7.0
+},
+{
+"patient": "P06",
+"date": "2026-07-15",
+"dose_mg": 7.0
+},
+{
+"patient": "P06",
+"date": "2026-07-16",
+"dose_mg": 7.0
+},
+{
+"patient": "P06",
+"date": "2026-07-17",
+"dose_mg": 7.0
+},
+{
+"patient": "P06",
+"date": "2026-07-18",
+"dose_mg": 7.0
+},
+{
+"patient": "P06",
+"date": "2026-07-19",
+"dose_mg": 7.0
+},
+{
+"patient": "P06",
+"date": "2026-07-20",
+"dose_mg": 7.0
+},
+{
+"patient": "P06",
+"date": "2026-07-21",
+"dose_mg": 7.0
+},
+{
+"patient": "P06",
+"date": "2026-07-22",
+"dose_mg": 7.0
+},
+{
+"patient": "P06",
+"date": "2026-07-23",
+"dose_mg": 7.0
+},
+{
+"patient": "P06",
+"date": "2026-07-24",
+"dose_mg": 7.0
+},
+{
+"patient": "P06",
+"date": "2026-07-25",
+"dose_mg": 7.0
+},
+{
+"patient": "P06",
+"date": "2026-07-26",
+"dose_mg": 7.0
+},
+{
+"patient": "P06",
+"date": "2026-07-27",
+"dose_mg": 7.0
+},
+{
+"patient": "P06",
+"date": "2026-07-28",
+"dose_mg": 7.0
+},
+{
+"patient": "P06",
+"date": "2026-07-29",
+"dose_mg": 7.0
+},
+{
+"patient": "P06",
+"date": "2026-07-30",
+"dose_mg": 7.0
+},
+{
+"patient": "P06",
+"date": "2026-07-31",
+"dose_mg": 7.0
+},
+{
+"patient": "P06",
+"date": "2026-08-01",
+"dose_mg": 7.0
+},
+{
+"patient": "P06",
+"date": "2026-08-02",
+"dose_mg": 7.0
+},
+{
+"patient": "P06",
+"date": "2026-08-03",
+"dose_mg": 7.0
+},
+{
+"patient": "P06",
+"date": "2026-08-04",
+"dose_mg": 7.0
+},
+{
+"patient": "P06",
+"date": "2026-08-05",
+"dose_mg": 7.0
+},
+{
+"patient": "P06",
+"date": "2026-08-06",
+"dose_mg": 7.0
+},
+{
+"patient": "P06",
+"date": "2026-08-07",
+"dose_mg": 7.0
+},
+{
+"patient": "P06",
+"date": "2026-08-08",
+"dose_mg": 7.0
+},
+{
+"patient": "P06",
+"date": "2026-08-09",
+"dose_mg": 7.0
+},
+{
+"patient": "P06",
+"date": "2026-08-10",
+"dose_mg": 7.0
+},
+{
+"patient": "P06",
+"date": "2026-08-11",
+"dose_mg": 7.0
+},
+{
+"patient": "P06",
+"date": "2026-08-12",
+"dose_mg": 7.0
+},
+{
+"patient": "P06",
+"date": "2026-08-13",
+"dose_mg": 7.0
+},
+{
+"patient": "P06",
+"date": "2026-08-14",
+"dose_mg": 7.0
+},
+{
+"patient": "P06",
+"date": "2026-08-15",
+"dose_mg": 7.0
+},
+{
+"patient": "P06",
+"date": "2026-08-16",
+"dose_mg": 7.0
+},
+{
+"patient": "P06",
+"date": "2026-08-17",
+"dose_mg": 7.0
+},
+{
+"patient": "P06",
+"date": "2026-08-18",
+"dose_mg": 7.0
+},
+{
+"patient": "P06",
+"date": "2026-08-19",
+"dose_mg": 7.0
+},
+{
+"patient": "P06",
+"date": "2026-08-20",
+"dose_mg": 7.0
+},
+{
+"patient": "P06",
+"date": "2026-08-21",
+"dose_mg": 7.0
+},
+{
+"patient": "P06",
+"date": "2026-08-22",
+"dose_mg": 7.0
+},
+{
+"patient": "P06",
+"date": "2026-08-23",
+"dose_mg": 7.0
+},
+{
+"patient": "P06",
+"date": "2026-08-24",
+"dose_mg": 7.0
+},
+{
+"patient": "P06",
+"date": "2026-08-25",
+"dose_mg": 7.0
+},
+{
+"patient": "P06",
+"date": "2026-08-26",
+"dose_mg": 7.0
+},
+{
+"patient": "P06",
+"date": "2026-08-27",
+"dose_mg": 7.0
+},
+{
+"patient": "P06",
+"date": "2026-08-28",
+"dose_mg": 7.0
+},
+{
+"patient": "P06",
+"date": "2026-08-29",
+"dose_mg": 7.0
+},
+{
+"patient": "P06",
+"date": "2026-08-30",
+"dose_mg": 7.0
+},
+{
+"patient": "P07",
+"date": "2026-07-06",
+"dose_mg": 4.5
+},
+{
+"patient": "P07",
+"date": "2026-07-07",
+"dose_mg": 4.5
+},
+{
+"patient": "P07",
+"date": "2026-07-08",
+"dose_mg": 4.0
+},
+{
+"patient": "P07",
+"date": "2026-07-09",
+"dose_mg": 4.0
+},
+{
+"patient": "P07",
+"date": "2026-07-10",
+"dose_mg": 4.0
+},
+{
+"patient": "P07",
+"date": "2026-07-11",
+"dose_mg": 4.0
+},
+{
+"patient": "P07",
+"date": "2026-07-12",
+"dose_mg": 4.0
+},
+{
+"patient": "P07",
+"date": "2026-07-13",
+"dose_mg": 4.0
+},
+{
+"patient": "P07",
+"date": "2026-07-14",
+"dose_mg": 4.0
+},
+{
+"patient": "P07",
+"date": "2026-07-15",
+"dose_mg": 4.0
+},
+{
+"patient": "P07",
+"date": "2026-07-16",
+"dose_mg": 4.0
+},
+{
+"patient": "P07",
+"date": "2026-07-17",
+"dose_mg": 4.0
+},
+{
+"patient": "P07",
+"date": "2026-07-18",
+"dose_mg": 4.0
+},
+{
+"patient": "P07",
+"date": "2026-07-19",
+"dose_mg": 4.0
+},
+{
+"patient": "P07",
+"date": "2026-07-20",
+"dose_mg": 4.0
+},
+{
+"patient": "P07",
+"date": "2026-07-21",
+"dose_mg": 4.0
+},
+{
+"patient": "P07",
+"date": "2026-07-22",
+"dose_mg": 4.0
+},
+{
+"patient": "P07",
+"date": "2026-07-23",
+"dose_mg": 4.0
+},
+{
+"patient": "P07",
+"date": "2026-07-24",
+"dose_mg": 4.0
+},
+{
+"patient": "P07",
+"date": "2026-07-25",
+"dose_mg": 4.0
+},
+{
+"patient": "P07",
+"date": "2026-07-26",
+"dose_mg": 4.0
+},
+{
+"patient": "P07",
+"date": "2026-07-27",
+"dose_mg": 4.0
+},
+{
+"patient": "P07",
+"date": "2026-07-28",
+"dose_mg": 4.0
+},
+{
+"patient": "P07",
+"date": "2026-07-29",
+"dose_mg": 4.0
+},
+{
+"patient": "P07",
+"date": "2026-07-30",
+"dose_mg": 4.0
+},
+{
+"patient": "P07",
+"date": "2026-07-31",
+"dose_mg": 4.0
+},
+{
+"patient": "P07",
+"date": "2026-08-01",
+"dose_mg": 4.0
+},
+{
+"patient": "P07",
+"date": "2026-08-02",
+"dose_mg": 4.0
+},
+{
+"patient": "P07",
+"date": "2026-08-03",
+"dose_mg": 4.0
+},
+{
+"patient": "P07",
+"date": "2026-08-04",
+"dose_mg": 4.0
+},
+{
+"patient": "P07",
+"date": "2026-08-05",
+"dose_mg": 4.0
+},
+{
+"patient": "P07",
+"date": "2026-08-06",
+"dose_mg": 4.0
+},
+{
+"patient": "P07",
+"date": "2026-08-07",
+"dose_mg": 4.0
+},
+{
+"patient": "P07",
+"date": "2026-08-08",
+"dose_mg": 4.0
+},
+{
+"patient": "P07",
+"date": "2026-08-09",
+"dose_mg": 4.0
+},
+{
+"patient": "P07",
+"date": "2026-08-10",
+"dose_mg": 4.0
+},
+{
+"patient": "P07",
+"date": "2026-08-11",
+"dose_mg": 4.0
+},
+{
+"patient": "P07",
+"date": "2026-08-12",
+"dose_mg": 4.0
+},
+{
+"patient": "P07",
+"date": "2026-08-13",
+"dose_mg": 4.0
+},
+{
+"patient": "P07",
+"date": "2026-08-14",
+"dose_mg": 4.0
+},
+{
+"patient": "P07",
+"date": "2026-08-15",
+"dose_mg": 4.0
+},
+{
+"patient": "P07",
+"date": "2026-08-16",
+"dose_mg": 4.0
+},
+{
+"patient": "P07",
+"date": "2026-08-17",
+"dose_mg": 4.0
+},
+{
+"patient": "P07",
+"date": "2026-08-18",
+"dose_mg": 4.0
+},
+{
+"patient": "P07",
+"date": "2026-08-19",
+"dose_mg": 4.0
+},
+{
+"patient": "P07",
+"date": "2026-08-20",
+"dose_mg": 4.0
+},
+{
+"patient": "P07",
+"date": "2026-08-21",
+"dose_mg": 4.0
+},
+{
+"patient": "P07",
+"date": "2026-08-22",
+"dose_mg": 4.0
+},
+{
+"patient": "P07",
+"date": "2026-08-23",
+"dose_mg": 4.0
+},
+{
+"patient": "P07",
+"date": "2026-08-24",
+"dose_mg": 4.0
+},
+{
+"patient": "P07",
+"date": "2026-08-25",
+"dose_mg": 4.0
+},
+{
+"patient": "P07",
+"date": "2026-08-26",
+"dose_mg": 4.0
+},
+{
+"patient": "P07",
+"date": "2026-08-27",
+"dose_mg": 4.0
+},
+{
+"patient": "P07",
+"date": "2026-08-28",
+"dose_mg": 4.0
+},
+{
+"patient": "P07",
+"date": "2026-08-29",
+"dose_mg": 4.0
+},
+{
+"patient": "P07",
+"date": "2026-08-30",
+"dose_mg": 4.0
+},
+{
+"patient": "P08",
+"date": "2026-07-06",
+"dose_mg": 4.0
+},
+{
+"patient": "P08",
+"date": "2026-07-07",
+"dose_mg": 4.0
+},
+{
+"patient": "P08",
+"date": "2026-07-08",
+"dose_mg": 4.0
+},
+{
+"patient": "P08",
+"date": "2026-07-09",
+"dose_mg": 4.0
+},
+{
+"patient": "P08",
+"date": "2026-07-10",
+"dose_mg": 4.0
+},
+{
+"patient": "P08",
+"date": "2026-07-11",
+"dose_mg": 4.0
+},
+{
+"patient": "P08",
+"date": "2026-07-12",
+"dose_mg": 4.0
+},
+{
+"patient": "P08",
+"date": "2026-07-13",
+"dose_mg": 4.0
+},
+{
+"patient": "P08",
+"date": "2026-07-14",
+"dose_mg": 4.0
+},
+{
+"patient": "P08",
+"date": "2026-07-15",
+"dose_mg": 4.0
+},
+{
+"patient": "P08",
+"date": "2026-07-16",
+"dose_mg": 4.0
+},
+{
+"patient": "P08",
+"date": "2026-07-17",
+"dose_mg": 4.0
+},
+{
+"patient": "P08",
+"date": "2026-07-18",
+"dose_mg": 4.0
+},
+{
+"patient": "P08",
+"date": "2026-07-19",
+"dose_mg": 4.0
+},
+{
+"patient": "P08",
+"date": "2026-07-20",
+"dose_mg": 4.0
+},
+{
+"patient": "P08",
+"date": "2026-07-21",
+"dose_mg": 4.0
+},
+{
+"patient": "P08",
+"date": "2026-07-22",
+"dose_mg": 4.0
+},
+{
+"patient": "P08",
+"date": "2026-07-23",
+"dose_mg": 4.0
+},
+{
+"patient": "P08",
+"date": "2026-07-24",
+"dose_mg": 4.0
+},
+{
+"patient": "P08",
+"date": "2026-07-25",
+"dose_mg": 4.0
+},
+{
+"patient": "P08",
+"date": "2026-07-26",
+"dose_mg": 4.0
+},
+{
+"patient": "P08",
+"date": "2026-07-27",
+"dose_mg": 4.0
+},
+{
+"patient": "P08",
+"date": "2026-07-28",
+"dose_mg": 4.0
+},
+{
+"patient": "P08",
+"date": "2026-07-29",
+"dose_mg": 4.0
+},
+{
+"patient": "P08",
+"date": "2026-07-30",
+"dose_mg": 4.0
+},
+{
+"patient": "P08",
+"date": "2026-07-31",
+"dose_mg": 4.0
+},
+{
+"patient": "P08",
+"date": "2026-08-01",
+"dose_mg": 4.0
+},
+{
+"patient": "P08",
+"date": "2026-08-02",
+"dose_mg": 4.0
+},
+{
+"patient": "P08",
+"date": "2026-08-03",
+"dose_mg": 4.0
+},
+{
+"patient": "P08",
+"date": "2026-08-04",
+"dose_mg": 4.0
+},
+{
+"patient": "P08",
+"date": "2026-08-05",
+"dose_mg": 4.0
+},
+{
+"patient": "P08",
+"date": "2026-08-06",
+"dose_mg": 4.0
+},
+{
+"patient": "P08",
+"date": "2026-08-07",
+"dose_mg": 4.0
+},
+{
+"patient": "P08",
+"date": "2026-08-08",
+"dose_mg": 4.0
+},
+{
+"patient": "P08",
+"date": "2026-08-09",
+"dose_mg": 4.0
+},
+{
+"patient": "P08",
+"date": "2026-08-10",
+"dose_mg": 4.0
+},
+{
+"patient": "P08",
+"date": "2026-08-11",
+"dose_mg": 4.0
+},
+{
+"patient": "P08",
+"date": "2026-08-12",
+"dose_mg": 4.0
+},
+{
+"patient": "P08",
+"date": "2026-08-13",
+"dose_mg": 4.0
+},
+{
+"patient": "P08",
+"date": "2026-08-14",
+"dose_mg": 4.0
+},
+{
+"patient": "P08",
+"date": "2026-08-15",
+"dose_mg": 4.0
+},
+{
+"patient": "P08",
+"date": "2026-08-16",
+"dose_mg": 4.0
+},
+{
+"patient": "P08",
+"date": "2026-08-17",
+"dose_mg": 4.0
+},
+{
+"patient": "P08",
+"date": "2026-08-18",
+"dose_mg": 4.0
+},
+{
+"patient": "P08",
+"date": "2026-08-19",
+"dose_mg": 4.0
+},
+{
+"patient": "P08",
+"date": "2026-08-20",
+"dose_mg": 4.0
+},
+{
+"patient": "P08",
+"date": "2026-08-21",
+"dose_mg": 4.0
+},
+{
+"patient": "P08",
+"date": "2026-08-22",
+"dose_mg": 4.0
+},
+{
+"patient": "P08",
+"date": "2026-08-23",
+"dose_mg": 4.0
+},
+{
+"patient": "P08",
+"date": "2026-08-24",
+"dose_mg": 4.0
+},
+{
+"patient": "P08",
+"date": "2026-08-25",
+"dose_mg": 4.0
+},
+{
+"patient": "P08",
+"date": "2026-08-26",
+"dose_mg": 4.0
+},
+{
+"patient": "P08",
+"date": "2026-08-27",
+"dose_mg": 4.0
+},
+{
+"patient": "P08",
+"date": "2026-08-28",
+"dose_mg": 4.0
+},
+{
+"patient": "P08",
+"date": "2026-08-29",
+"dose_mg": 4.0
+},
+{
+"patient": "P08",
+"date": "2026-08-30",
+"dose_mg": 4.0
+},
+{
+"patient": "P09",
+"date": "2026-07-06",
+"dose_mg": 5.5
+},
+{
+"patient": "P09",
+"date": "2026-07-07",
+"dose_mg": 5.0
+},
+{
+"patient": "P09",
+"date": "2026-07-08",
+"dose_mg": 5.0
+},
+{
+"patient": "P09",
+"date": "2026-07-09",
+"dose_mg": 5.0
+},
+{
+"patient": "P09",
+"date": "2026-07-10",
+"dose_mg": 5.0
+},
+{
+"patient": "P09",
+"date": "2026-07-11",
+"dose_mg": 4.5
+},
+{
+"patient": "P09",
+"date": "2026-07-12",
+"dose_mg": 4.5
+},
+{
+"patient": "P09",
+"date": "2026-07-13",
+"dose_mg": 4.5
+},
+{
+"patient": "P09",
+"date": "2026-07-14",
+"dose_mg": 4.5
+},
+{
+"patient": "P09",
+"date": "2026-07-15",
+"dose_mg": 4.0
+},
+{
+"patient": "P09",
+"date": "2026-07-16",
+"dose_mg": 4.0
+},
+{
+"patient": "P09",
+"date": "2026-07-17",
+"dose_mg": 4.0
+},
+{
+"patient": "P09",
+"date": "2026-07-18",
+"dose_mg": 4.0
+},
+{
+"patient": "P09",
+"date": "2026-07-19",
+"dose_mg": 4.0
+},
+{
+"patient": "P09",
+"date": "2026-07-20",
+"dose_mg": 3.5
+},
+{
+"patient": "P09",
+"date": "2026-07-21",
+"dose_mg": 3.5
+},
+{
+"patient": "P09",
+"date": "2026-07-22",
+"dose_mg": 3.5
+},
+{
+"patient": "P09",
+"date": "2026-07-23",
+"dose_mg": 3.5
+},
+{
+"patient": "P09",
+"date": "2026-07-24",
+"dose_mg": 3.5
+},
+{
+"patient": "P09",
+"date": "2026-07-25",
+"dose_mg": 3.5
+},
+{
+"patient": "P09",
+"date": "2026-07-26",
+"dose_mg": 3.5
+},
+{
+"patient": "P09",
+"date": "2026-07-27",
+"dose_mg": 3.5
+},
+{
+"patient": "P09",
+"date": "2026-07-28",
+"dose_mg": 3.5
+},
+{
+"patient": "P09",
+"date": "2026-07-29",
+"dose_mg": 3.5
+},
+{
+"patient": "P09",
+"date": "2026-07-30",
+"dose_mg": 3.5
+},
+{
+"patient": "P09",
+"date": "2026-07-31",
+"dose_mg": 3.0
+},
+{
+"patient": "P09",
+"date": "2026-08-01",
+"dose_mg": 3.5
+},
+{
+"patient": "P09",
+"date": "2026-08-02",
+"dose_mg": 3.0
+},
+{
+"patient": "P09",
+"date": "2026-08-03",
+"dose_mg": 3.0
+},
+{
+"patient": "P09",
+"date": "2026-08-04",
+"dose_mg": 3.5
+},
+{
+"patient": "P09",
+"date": "2026-08-05",
+"dose_mg": 3.0
+},
+{
+"patient": "P09",
+"date": "2026-08-06",
+"dose_mg": 3.0
+},
+{
+"patient": "P09",
+"date": "2026-08-07",
+"dose_mg": 3.0
+},
+{
+"patient": "P09",
+"date": "2026-08-08",
+"dose_mg": 3.0
+},
+{
+"patient": "P09",
+"date": "2026-08-09",
+"dose_mg": 3.0
+},
+{
+"patient": "P09",
+"date": "2026-08-10",
+"dose_mg": 3.0
+},
+{
+"patient": "P09",
+"date": "2026-08-11",
+"dose_mg": 3.0
+},
+{
+"patient": "P09",
+"date": "2026-08-12",
+"dose_mg": 3.0
+},
+{
+"patient": "P09",
+"date": "2026-08-13",
+"dose_mg": 3.0
+},
+{
+"patient": "P09",
+"date": "2026-08-14",
+"dose_mg": 3.0
+},
+{
+"patient": "P09",
+"date": "2026-08-15",
+"dose_mg": 3.0
+},
+{
+"patient": "P09",
+"date": "2026-08-16",
+"dose_mg": 3.0
+},
+{
+"patient": "P09",
+"date": "2026-08-17",
+"dose_mg": 3.0
+},
+{
+"patient": "P09",
+"date": "2026-08-18",
+"dose_mg": 3.0
+},
+{
+"patient": "P09",
+"date": "2026-08-19",
+"dose_mg": 3.0
+},
+{
+"patient": "P09",
+"date": "2026-08-20",
+"dose_mg": 3.0
+},
+{
+"patient": "P09",
+"date": "2026-08-21",
+"dose_mg": 3.0
+},
+{
+"patient": "P09",
+"date": "2026-08-22",
+"dose_mg": 3.0
+},
+{
+"patient": "P09",
+"date": "2026-08-23",
+"dose_mg": 3.0
+},
+{
+"patient": "P09",
+"date": "2026-08-24",
+"dose_mg": 3.0
+},
+{
+"patient": "P09",
+"date": "2026-08-25",
+"dose_mg": 3.0
+},
+{
+"patient": "P09",
+"date": "2026-08-26",
+"dose_mg": 3.0
+},
+{
+"patient": "P09",
+"date": "2026-08-27",
+"dose_mg": 3.0
+},
+{
+"patient": "P09",
+"date": "2026-08-28",
+"dose_mg": 3.0
+},
+{
+"patient": "P09",
+"date": "2026-08-29",
+"dose_mg": 3.0
+},
+{
+"patient": "P09",
+"date": "2026-08-30",
+"dose_mg": 3.0
+},
+{
+"patient": "P10",
+"date": "2026-07-06",
+"dose_mg": 6.0
+},
+{
+"patient": "P10",
+"date": "2026-07-07",
+"dose_mg": 5.5
+},
+{
+"patient": "P10",
+"date": "2026-07-08",
+"dose_mg": 5.5
+},
+{
+"patient": "P10",
+"date": "2026-07-09",
+"dose_mg": 5.5
+},
+{
+"patient": "P10",
+"date": "2026-07-10",
+"dose_mg": 5.5
+},
+{
+"patient": "P10",
+"date": "2026-07-11",
+"dose_mg": 5.5
+},
+{
+"patient": "P10",
+"date": "2026-07-12",
+"dose_mg": 5.5
+},
+{
+"patient": "P10",
+"date": "2026-07-13",
+"dose_mg": 5.5
+},
+{
+"patient": "P10",
+"date": "2026-07-14",
+"dose_mg": 5.5
+},
+{
+"patient": "P10",
+"date": "2026-07-15",
+"dose_mg": 5.5
+},
+{
+"patient": "P10",
+"date": "2026-07-16",
+"dose_mg": 5.5
+},
+{
+"patient": "P10",
+"date": "2026-07-17",
+"dose_mg": 5.5
+},
+{
+"patient": "P10",
+"date": "2026-07-18",
+"dose_mg": 5.5
+},
+{
+"patient": "P10",
+"date": "2026-07-19",
+"dose_mg": 5.5
+},
+{
+"patient": "P10",
+"date": "2026-07-20",
+"dose_mg": 5.5
+},
+{
+"patient": "P10",
+"date": "2026-07-21",
+"dose_mg": 5.5
+},
+{
+"patient": "P10",
+"date": "2026-07-22",
+"dose_mg": 5.5
+},
+{
+"patient": "P10",
+"date": "2026-07-23",
+"dose_mg": 5.5
+},
+{
+"patient": "P10",
+"date": "2026-07-24",
+"dose_mg": 5.5
+},
+{
+"patient": "P10",
+"date": "2026-07-25",
+"dose_mg": 5.5
+},
+{
+"patient": "P10",
+"date": "2026-07-26",
+"dose_mg": 5.5
+},
+{
+"patient": "P10",
+"date": "2026-07-27",
+"dose_mg": 5.5
+},
+{
+"patient": "P10",
+"date": "2026-07-28",
+"dose_mg": 5.5
+},
+{
+"patient": "P10",
+"date": "2026-07-29",
+"dose_mg": 5.5
+},
+{
+"patient": "P10",
+"date": "2026-07-30",
+"dose_mg": 5.5
+},
+{
+"patient": "P10",
+"date": "2026-07-31",
+"dose_mg": 5.5
+},
+{
+"patient": "P10",
+"date": "2026-08-01",
+"dose_mg": 5.5
+},
+{
+"patient": "P10",
+"date": "2026-08-02",
+"dose_mg": 5.5
+},
+{
+"patient": "P10",
+"date": "2026-08-03",
+"dose_mg": 5.5
+},
+{
+"patient": "P10",
+"date": "2026-08-04",
+"dose_mg": 5.5
+},
+{
+"patient": "P10",
+"date": "2026-08-05",
+"dose_mg": 5.5
+},
+{
+"patient": "P10",
+"date": "2026-08-06",
+"dose_mg": 5.5
+},
+{
+"patient": "P10",
+"date": "2026-08-07",
+"dose_mg": 5.5
+},
+{
+"patient": "P10",
+"date": "2026-08-08",
+"dose_mg": 5.5
+},
+{
+"patient": "P10",
+"date": "2026-08-09",
+"dose_mg": 5.5
+},
+{
+"patient": "P10",
+"date": "2026-08-10",
+"dose_mg": 5.5
+},
+{
+"patient": "P10",
+"date": "2026-08-11",
+"dose_mg": 5.5
+},
+{
+"patient": "P10",
+"date": "2026-08-12",
+"dose_mg": 5.5
+},
+{
+"patient": "P10",
+"date": "2026-08-13",
+"dose_mg": 5.5
+},
+{
+"patient": "P10",
+"date": "2026-08-14",
+"dose_mg": 5.5
+},
+{
+"patient": "P10",
+"date": "2026-08-15",
+"dose_mg": 5.5
+},
+{
+"patient": "P10",
+"date": "2026-08-16",
+"dose_mg": 5.5
+},
+{
+"patient": "P10",
+"date": "2026-08-17",
+"dose_mg": 5.5
+},
+{
+"patient": "P10",
+"date": "2026-08-18",
+"dose_mg": 5.5
+},
+{
+"patient": "P10",
+"date": "2026-08-19",
+"dose_mg": 5.5
+},
+{
+"patient": "P10",
+"date": "2026-08-20",
+"dose_mg": 5.5
+},
+{
+"patient": "P10",
+"date": "2026-08-21",
+"dose_mg": 5.5
+},
+{
+"patient": "P10",
+"date": "2026-08-22",
+"dose_mg": 5.5
+},
+{
+"patient": "P10",
+"date": "2026-08-23",
+"dose_mg": 5.5
+},
+{
+"patient": "P10",
+"date": "2026-08-24",
+"dose_mg": 5.5
+},
+{
+"patient": "P10",
+"date": "2026-08-25",
+"dose_mg": 5.5
+},
+{
+"patient": "P10",
+"date": "2026-08-26",
+"dose_mg": 5.5
+},
+{
+"patient": "P10",
+"date": "2026-08-27",
+"dose_mg": 5.5
+},
+{
+"patient": "P10",
+"date": "2026-08-28",
+"dose_mg": 5.5
+},
+{
+"patient": "P10",
+"date": "2026-08-29",
+"dose_mg": 5.5
+},
+{
+"patient": "P10",
+"date": "2026-08-30",
+"dose_mg": 5.5
+},
+{
+"patient": "P11",
+"date": "2026-07-06",
+"dose_mg": 6.0
+},
+{
+"patient": "P11",
+"date": "2026-07-07",
+"dose_mg": 6.0
+},
+{
+"patient": "P11",
+"date": "2026-07-08",
+"dose_mg": 6.0
+},
+{
+"patient": "P11",
+"date": "2026-07-09",
+"dose_mg": 6.0
+},
+{
+"patient": "P11",
+"date": "2026-07-10",
+"dose_mg": 6.0
+},
+{
+"patient": "P11",
+"date": "2026-07-11",
+"dose_mg": 6.0
+},
+{
+"patient": "P11",
+"date": "2026-07-12",
+"dose_mg": 6.0
+},
+{
+"patient": "P11",
+"date": "2026-07-13",
+"dose_mg": 6.0
+},
+{
+"patient": "P11",
+"date": "2026-07-14",
+"dose_mg": 5.5
+},
+{
+"patient": "P11",
+"date": "2026-07-15",
+"dose_mg": 6.0
+},
+{
+"patient": "P11",
+"date": "2026-07-16",
+"dose_mg": 6.0
+},
+{
+"patient": "P11",
+"date": "2026-07-17",
+"dose_mg": 6.0
+},
+{
+"patient": "P11",
+"date": "2026-07-18",
+"dose_mg": 5.5
+},
+{
+"patient": "P11",
+"date": "2026-07-19",
+"dose_mg": 6.0
+},
+{
+"patient": "P11",
+"date": "2026-07-20",
+"dose_mg": 6.0
+},
+{
+"patient": "P11",
+"date": "2026-07-21",
+"dose_mg": 6.0
+},
+{
+"patient": "P11",
+"date": "2026-07-22",
+"dose_mg": 5.5
+},
+{
+"patient": "P11",
+"date": "2026-07-23",
+"dose_mg": 6.0
+},
+{
+"patient": "P11",
+"date": "2026-07-24",
+"dose_mg": 6.0
+},
+{
+"patient": "P11",
+"date": "2026-07-25",
+"dose_mg": 6.0
+},
+{
+"patient": "P11",
+"date": "2026-07-26",
+"dose_mg": 5.5
+},
+{
+"patient": "P11",
+"date": "2026-07-27",
+"dose_mg": 6.0
+},
+{
+"patient": "P11",
+"date": "2026-07-28",
+"dose_mg": 6.0
+},
+{
+"patient": "P11",
+"date": "2026-07-29",
+"dose_mg": 6.0
+},
+{
+"patient": "P11",
+"date": "2026-07-30",
+"dose_mg": 5.5
+},
+{
+"patient": "P11",
+"date": "2026-07-31",
+"dose_mg": 6.0
+},
+{
+"patient": "P11",
+"date": "2026-08-01",
+"dose_mg": 6.0
+},
+{
+"patient": "P11",
+"date": "2026-08-02",
+"dose_mg": 6.0
+},
+{
+"patient": "P11",
+"date": "2026-08-03",
+"dose_mg": 5.5
+},
+{
+"patient": "P11",
+"date": "2026-08-04",
+"dose_mg": 6.0
+},
+{
+"patient": "P11",
+"date": "2026-08-05",
+"dose_mg": 6.0
+},
+{
+"patient": "P11",
+"date": "2026-08-06",
+"dose_mg": 6.0
+},
+{
+"patient": "P11",
+"date": "2026-08-07",
+"dose_mg": 5.5
+},
+{
+"patient": "P11",
+"date": "2026-08-08",
+"dose_mg": 6.0
+},
+{
+"patient": "P11",
+"date": "2026-08-09",
+"dose_mg": 6.0
+},
+{
+"patient": "P11",
+"date": "2026-08-10",
+"dose_mg": 6.0
+},
+{
+"patient": "P11",
+"date": "2026-08-11",
+"dose_mg": 5.5
+},
+{
+"patient": "P11",
+"date": "2026-08-12",
+"dose_mg": 6.0
+},
+{
+"patient": "P11",
+"date": "2026-08-13",
+"dose_mg": 6.0
+},
+{
+"patient": "P11",
+"date": "2026-08-14",
+"dose_mg": 6.0
+},
+{
+"patient": "P11",
+"date": "2026-08-15",
+"dose_mg": 5.5
+},
+{
+"patient": "P11",
+"date": "2026-08-16",
+"dose_mg": 6.0
+},
+{
+"patient": "P11",
+"date": "2026-08-17",
+"dose_mg": 6.0
+},
+{
+"patient": "P11",
+"date": "2026-08-18",
+"dose_mg": 6.0
+},
+{
+"patient": "P11",
+"date": "2026-08-19",
+"dose_mg": 5.5
+},
+{
+"patient": "P11",
+"date": "2026-08-20",
+"dose_mg": 6.0
+},
+{
+"patient": "P11",
+"date": "2026-08-21",
+"dose_mg": 6.0
+},
+{
+"patient": "P11",
+"date": "2026-08-22",
+"dose_mg": 6.0
+},
+{
+"patient": "P11",
+"date": "2026-08-23",
+"dose_mg": 5.5
+},
+{
+"patient": "P11",
+"date": "2026-08-24",
+"dose_mg": 6.0
+},
+{
+"patient": "P11",
+"date": "2026-08-25",
+"dose_mg": 6.0
+},
+{
+"patient": "P11",
+"date": "2026-08-26",
+"dose_mg": 6.0
+},
+{
+"patient": "P11",
+"date": "2026-08-27",
+"dose_mg": 5.5
+},
+{
+"patient": "P11",
+"date": "2026-08-28",
+"dose_mg": 6.0
+},
+{
+"patient": "P11",
+"date": "2026-08-29",
+"dose_mg": 6.0
+},
+{
+"patient": "P11",
+"date": "2026-08-30",
+"dose_mg": 6.0
+},
+{
+"patient": "P12",
+"date": "2026-07-06",
+"dose_mg": 9.5
+},
+{
+"patient": "P12",
+"date": "2026-07-07",
+"dose_mg": 9.5
+},
+{
+"patient": "P12",
+"date": "2026-07-08",
+"dose_mg": 9.5
+},
+{
+"patient": "P12",
+"date": "2026-07-09",
+"dose_mg": 9.5
+},
+{
+"patient": "P12",
+"date": "2026-07-10",
+"dose_mg": 9.5
+},
+{
+"patient": "P12",
+"date": "2026-07-11",
+"dose_mg": 9.0
+},
+{
+"patient": "P12",
+"date": "2026-07-12",
+"dose_mg": 9.5
+},
+{
+"patient": "P12",
+"date": "2026-07-13",
+"dose_mg": 9.5
+},
+{
+"patient": "P12",
+"date": "2026-07-14",
+"dose_mg": 9.5
+},
+{
+"patient": "P12",
+"date": "2026-07-15",
+"dose_mg": 9.5
+},
+{
+"patient": "P12",
+"date": "2026-07-16",
+"dose_mg": 9.0
+},
+{
+"patient": "P12",
+"date": "2026-07-17",
+"dose_mg": 9.5
+},
+{
+"patient": "P12",
+"date": "2026-07-18",
+"dose_mg": 9.5
+},
+{
+"patient": "P12",
+"date": "2026-07-19",
+"dose_mg": 9.5
+},
+{
+"patient": "P12",
+"date": "2026-07-20",
+"dose_mg": 9.5
+},
+{
+"patient": "P12",
+"date": "2026-07-21",
+"dose_mg": 9.0
+},
+{
+"patient": "P12",
+"date": "2026-07-22",
+"dose_mg": 9.5
+},
+{
+"patient": "P12",
+"date": "2026-07-23",
+"dose_mg": 9.5
+},
+{
+"patient": "P12",
+"date": "2026-07-24",
+"dose_mg": 9.5
+},
+{
+"patient": "P12",
+"date": "2026-07-25",
+"dose_mg": 9.5
+},
+{
+"patient": "P12",
+"date": "2026-07-26",
+"dose_mg": 9.0
+},
+{
+"patient": "P12",
+"date": "2026-07-27",
+"dose_mg": 9.5
+},
+{
+"patient": "P12",
+"date": "2026-07-28",
+"dose_mg": 9.5
+},
+{
+"patient": "P12",
+"date": "2026-07-29",
+"dose_mg": 9.5
+},
+{
+"patient": "P12",
+"date": "2026-07-30",
+"dose_mg": 9.5
+},
+{
+"patient": "P12",
+"date": "2026-07-31",
+"dose_mg": 9.0
+},
+{
+"patient": "P12",
+"date": "2026-08-01",
+"dose_mg": 9.5
+},
+{
+"patient": "P12",
+"date": "2026-08-02",
+"dose_mg": 9.5
+},
+{
+"patient": "P12",
+"date": "2026-08-03",
+"dose_mg": 9.5
+},
+{
+"patient": "P12",
+"date": "2026-08-04",
+"dose_mg": 9.5
+},
+{
+"patient": "P12",
+"date": "2026-08-05",
+"dose_mg": 9.0
+},
+{
+"patient": "P12",
+"date": "2026-08-06",
+"dose_mg": 9.5
+},
+{
+"patient": "P12",
+"date": "2026-08-07",
+"dose_mg": 9.5
+},
+{
+"patient": "P12",
+"date": "2026-08-08",
+"dose_mg": 9.5
+},
+{
+"patient": "P12",
+"date": "2026-08-09",
+"dose_mg": 9.5
+},
+{
+"patient": "P12",
+"date": "2026-08-10",
+"dose_mg": 9.0
+},
+{
+"patient": "P12",
+"date": "2026-08-11",
+"dose_mg": 9.5
+},
+{
+"patient": "P12",
+"date": "2026-08-12",
+"dose_mg": 9.5
+},
+{
+"patient": "P12",
+"date": "2026-08-13",
+"dose_mg": 9.5
+},
+{
+"patient": "P12",
+"date": "2026-08-14",
+"dose_mg": 9.5
+},
+{
+"patient": "P12",
+"date": "2026-08-15",
+"dose_mg": 9.0
+},
+{
+"patient": "P12",
+"date": "2026-08-16",
+"dose_mg": 9.5
+},
+{
+"patient": "P12",
+"date": "2026-08-17",
+"dose_mg": 9.5
+},
+{
+"patient": "P12",
+"date": "2026-08-18",
+"dose_mg": 9.5
+},
+{
+"patient": "P12",
+"date": "2026-08-19",
+"dose_mg": 9.5
+},
+{
+"patient": "P12",
+"date": "2026-08-20",
+"dose_mg": 9.0
+},
+{
+"patient": "P12",
+"date": "2026-08-21",
+"dose_mg": 9.5
+},
+{
+"patient": "P12",
+"date": "2026-08-22",
+"dose_mg": 9.5
+},
+{
+"patient": "P12",
+"date": "2026-08-23",
+"dose_mg": 9.5
+},
+{
+"patient": "P12",
+"date": "2026-08-24",
+"dose_mg": 9.5
+},
+{
+"patient": "P12",
+"date": "2026-08-25",
+"dose_mg": 9.0
+},
+{
+"patient": "P12",
+"date": "2026-08-26",
+"dose_mg": 9.5
+},
+{
+"patient": "P12",
+"date": "2026-08-27",
+"dose_mg": 9.5
+},
+{
+"patient": "P12",
+"date": "2026-08-28",
+"dose_mg": 9.5
+},
+{
+"patient": "P12",
+"date": "2026-08-29",
+"dose_mg": 9.5
+},
+{
+"patient": "P12",
+"date": "2026-08-30",
+"dose_mg": 9.0
+}
+]
+}

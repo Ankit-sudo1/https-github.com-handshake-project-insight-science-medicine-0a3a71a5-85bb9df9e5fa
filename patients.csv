@@ -1,0 +1,13 @@
+patient,sex,age,indication
+P01,M,84,mechanical valve
+P02,M,61,atrial fibrillation
+P03,F,65,venous thromboembolism
+P04,F,64,venous thromboembolism
+P05,M,74,venous thromboembolism
+P06,M,61,mechanical valve
+P07,F,66,atrial fibrillation
+P08,F,51,venous thromboembolism
+P09,M,66,venous thromboembolism
+P10,F,57,venous thromboembolism
+P11,F,75,venous thromboembolism
+P12,F,77,venous thromboembolism

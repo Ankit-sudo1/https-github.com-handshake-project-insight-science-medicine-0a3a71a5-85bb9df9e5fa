@@ -1,0 +1,13 @@
+patient,start_date,end_date,event
+P01,2026-01-21,2026-01-29,antibiotic course
+P02,2026-03-10,2026-03-18,antibiotic course
+P02,2026-07-27,2026-08-02,antibiotic course planned
+P04,2026-03-21,,amiodarone started (continuing)
+P04,2026-06-12,2026-06-19,antibiotic course
+P05,2026-06-03,2026-06-11,antibiotic course
+P07,2026-06-02,2026-06-07,antibiotic course
+P08,2026-01-20,2026-01-25,antibiotic course
+P08,2026-06-16,2026-06-21,antibiotic course
+P09,2026-03-16,2026-03-23,antibiotic course
+P09,2026-07-13,,amiodarone planned to start (continuing)
+P12,2026-04-02,2026-04-10,antibiotic course

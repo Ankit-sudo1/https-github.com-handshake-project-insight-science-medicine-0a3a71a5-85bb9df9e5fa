@@ -1,0 +1,79 @@
+machine: 2 CPUs; test runner: real pytest 9.1.1 from the uv tool store (PyPI unreachable here), with authoring/shim/ctrf_standin.py in place of pytest-json-ctrf
+verifier: EPISODE_TOL_DAYS = 3;MIN_EPISODE_PRECISION = 0.75;MIN_EPISODE_RECALL = 0.60;MIN_TTR = 0.80                  ;MAX_OUT_OF_SAFE = 0.03          ;
+oracle                                   reward 1 (expected 1) ok  
+the verifier graded the oracle in 1.2 s
+  {
+   "reported": 31,
+   "hit": 24,
+   "precision": 0.7742,
+   "recall": 0.75,
+   "ttr": {
+    "P01": 0.9643,
+    "P02": 0.8929,
+    "P03": 1.0,
+    "P04": 0.9464,
+    "P05": 1.0,
+    "P06": 1.0,
+    "P07": 1.0,
+    "P08": 1.0,
+    "P09": 1.0,
+    "P10": 1.0,
+    "P11": 1.0,
+    "P12": 0.9643
+   },
+   "unsafe": {
+    "P01": 0.0,
+    "P02": 0.0,
+    "P03": 0.0,
+    "P04": 0.0,
+    "P05": 0.0,
+    "P06": 0.0,
+    "P07": 0.0,
+    "P08": 0.0,
+    "P09": 0.0,
+    "P10": 0.0,
+    "P11": 0.0,
+    "P12": 0.0
+   },
+   "min_ttr": 0.8929,
+   "max_unsafe": 0.0,
+   "passes": {
+    "precision": true,
+    "recall": true,
+    "ttr": true,
+    "unsafe": true
+   },
+   "reward": 1
+  }
+oracle run twice: byte-identical output
+no submission                            reward 0 (expected 0) ok failed: test_episode_precision test_episode_recall test_file_format test_time_in_range test_unsafe_inr  (not found)
+pass_episodes_inside_tolerance           reward 1 (expected 1) ok  
+pass_precision_at_limit                  reward 1 (expected 1) ok  
+pass_recall_at_limit                     reward 1 (expected 1) ok  
+pass_reference                           reward 1 (expected 1) ok  
+pass_reordered                           reward 1 (expected 1) ok  
+pass_true_episodes                       reward 1 (expected 1) ok  
+fail_causes_swapped                      reward 0 (expected 0) ok failed: test_episode_precision test_episode_recall  (episode precision 0.0000 < 0.75)
+fail_dose_boolean                        reward 0 (expected 0) ok failed: test_episode_precision test_episode_recall test_file_format test_time_in_range test_unsafe_inr  (does not follow the required format: doses[0].dose_mg must be a multiple of 0.5 from 0 to 20)
+fail_dose_not_half_mg                    reward 0 (expected 0) ok failed: test_episode_precision test_episode_recall test_file_format test_time_in_range test_unsafe_inr  (does not follow the required format: doses[0].dose_mg must be a multiple of 0.5 from 0 to 20)
+fail_dose_out_of_range                   reward 0 (expected 0) ok failed: test_episode_precision test_episode_recall test_file_format test_time_in_range test_unsafe_inr  (does not follow the required format: doses[0].dose_mg must be a multiple of 0.5 from 0 to 20)
+fail_dose_row_missing                    reward 0 (expected 0) ok failed: test_episode_precision test_episode_recall test_file_format test_time_in_range test_unsafe_inr  (does not follow the required format: doses covers 671 of the 672 rows of plan_days.csv)
+fail_dose_row_repeated                   reward 0 (expected 0) ok failed: test_episode_precision test_episode_recall test_file_format test_time_in_range test_unsafe_inr  (does not follow the required format: doses[672] repeats P01 2026-07-06)
+fail_episode_after_record                reward 0 (expected 0) ok failed: test_episode_precision test_episode_recall test_file_format test_time_in_range test_unsafe_inr  (does not follow the required format: episodes[32].start 2026-07-20 is not within the record)
+fail_episode_date_format                 reward 0 (expected 0) ok failed: test_episode_precision test_episode_recall test_file_format test_time_in_range test_unsafe_inr  (does not follow the required format: episodes[32].start is not YYYY-MM-DD)
+fail_episode_repeated                    reward 0 (expected 0) ok failed: test_episode_precision test_episode_recall test_file_format test_time_in_range test_unsafe_inr  (does not follow the required format: episodes[32] repeats a patient and start)
+fail_episodes_outside_tolerance          reward 0 (expected 0) ok failed: test_episode_precision test_episode_recall  (episode precision 0.0000 < 0.75)
+fail_extra_key                           reward 0 (expected 0) ok failed: test_episode_precision test_episode_recall test_file_format test_time_in_range test_unsafe_inr  (does not follow the required format: the object must have exactly the keys episodes and doses)
+fail_nan_value                           reward 0 (expected 0) ok failed: test_episode_precision test_episode_recall test_file_format test_time_in_range test_unsafe_inr  (is not allowed)
+fail_no_episodes                         reward 0 (expected 0) ok failed: test_episode_precision test_episode_recall  (episode precision 0.0000 < 0.75)
+fail_plan_no_warfarin                    reward 0 (expected 0) ok failed: test_time_in_range test_unsafe_inr  (patients with the INR in 2.0-3.0 on less than 0.8 of the plan mornings: {'P01': 0.0179, 'P02': 0.0, 'P03': 0.0179, 'P04': 0.0179, 'P0)
+fail_plan_p01_doses_low                  reward 0 (expected 0) ok failed: test_time_in_range  (patients with the INR in 2.0-3.0 on less than 0.8 of the plan mornings: {'P01': 0.25)
+fail_plan_p05_doses_double               reward 0 (expected 0) ok failed: test_time_in_range test_unsafe_inr  (patients with the INR in 2.0-3.0 on less than 0.8 of the plan mornings: {'P05': 0.0357)
+fail_plan_p09_doses_high                 reward 0 (expected 0) ok failed: test_time_in_range  (patients with the INR in 2.0-3.0 on less than 0.8 of the plan mornings: {'P09': 0.5179)
+fail_precision_below_limit               reward 0 (expected 0) ok failed: test_episode_precision  (episode precision 0.7442 < 0.75)
+fail_recall_below_limit                  reward 0 (expected 0) ok failed: test_episode_recall  (episode recall 0.5938 < 0.6)
+fail_top_level_list                      reward 0 (expected 0) ok failed: test_episode_precision test_episode_recall test_file_format test_time_in_range test_unsafe_inr  (does not follow the required format: the object must have exactly the keys episodes and doses)
+fail_truncated_json                      reward 0 (expected 0) ok failed: test_episode_precision test_episode_recall test_file_format test_time_in_range test_unsafe_inr  
+fail_unknown_cause                       reward 0 (expected 0) ok failed: test_episode_precision test_episode_recall test_file_format test_time_in_range test_unsafe_inr  (does not follow the required format: episodes[32].cause is not one of missed_dose, unrecorded_interaction)
+fail_unknown_patient                     reward 0 (expected 0) ok failed: test_episode_precision test_episode_recall test_file_format test_time_in_range test_unsafe_inr  (does not follow the required format: episodes[32].patient is not one of the patients)
+final permissions: 755 root 644 644

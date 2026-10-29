@@ -1,0 +1,14 @@
+Plan with the true physiology (vitamin K at its median), graded by the verifier:
+  P01  TTR 1.000  unsafe 0.000
+  P02  TTR 0.911  unsafe 0.000
+  P03  TTR 1.000  unsafe 0.000
+  P04  TTR 1.000  unsafe 0.000
+  P05  TTR 1.000  unsafe 0.000
+  P06  TTR 1.000  unsafe 0.000
+  P07  TTR 1.000  unsafe 0.000
+  P08  TTR 1.000  unsafe 0.000
+  P09  TTR 1.000  unsafe 0.000
+  P10  TTR 1.000  unsafe 0.000
+  P11  TTR 1.000  unsafe 0.000
+  P12  TTR 0.964  unsafe 0.000
+lowest TTR 0.911 against the limit 0.8; highest unsafe share 0.000 against 0.03: both limits reachable

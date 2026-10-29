@@ -1,0 +1,29 @@
+artifacts = ["/app/dose_plan.json"]
+
+schema_version = "2.0"
+
+[task]
+name = "insight/warfarin-dose-plan"
+description = "From six months of home INR self-testing and dosing diaries of twelve adults on warfarin - twice-weekly point-of-care INR results with retests after out-of-range values, the diary dose of every day, and a clinic log of antibiotic courses and amiodarone, past and planned - fit the clinic's warfarin dose-response model to every patient and use the fits for two things: identify the missed doses and unrecorded antibiotic courses nobody recorded, and set every patient's daily warfarin dose for the next eight weeks, during which one patient starts amiodarone and another takes an antibiotic course. Graded on the precision and recall of the reported episodes, and on each patient's simulated time in therapeutic range and time at unsafe INR under the doses."
+
+[metadata]
+domain = "Science"
+field = "Medicine"
+subfield = "Haematology"
+tags = ["medicine", "haematology", "anticoagulation", "warfarin", "inr", "self-testing", "pharmacokinetics", "pharmacodynamics", "drug-interactions", "amiodarone", "dose-individualisation", "time-in-therapeutic-range", "signal-detection", "maximum-likelihood"]
+expert_time_estimate_hours = 8
+relevant_experience = "Running an anticoagulation clinic: reviewing home INR self-testing records and dosing diaries, recognising non-adherence and undisclosed interacting medicines from the INR pattern, dosing warfarin around antibiotic courses and amiodarone, and model-based warfarin pharmacokinetic-pharmacodynamic individualisation (S-warfarin half-life, EC50 for clotting-factor synthesis, factor turnover, day-to-day dietary vitamin K variation, meter error) to design dose schedules checked in simulation against time in therapeutic range."
+
+[verifier]
+timeout_sec = 600.0
+environment_mode = "separate"
+
+[agent]
+timeout_sec = 28800.0
+
+[environment]
+build_timeout_sec = 600.0
+cpus = 2
+memory_mb = 4096
+storage_mb = 10240
+gpus = 0
